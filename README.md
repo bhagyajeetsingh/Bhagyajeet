@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhagyajeet Singh</h1>
 <h3 align="center">A passionate frontend developer from Chhattisgarh, India.</h3>
-<img src= "https://in.pinterest.com/pin/59813501292017265/">
+<img align="right" alt="Coding" width="400" src= "https://in.pinterest.com/pin/59813501292017265">
 
 - 🌱 I’m currently learning **Java-script**
 
